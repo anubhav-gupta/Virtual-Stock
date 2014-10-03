@@ -1,0 +1,15 @@
+VirtualTrader
+=============
+
+VirtualTrader is a virtual stock market trading game, where players
+buy and sell real shares at their real-time prices, in a virtual 
+environment, with virtual money. The aim of the game is to make as
+much as possible trading these shares.
+
+All users start off with 200.00 $
+
+------------------------------------------------------------------
+
+Full VirtualTrader class information can be found here :
+
+https://github.com/cuonic/VirtualTrader/wiki/The-VirtualTrader-Class
